@@ -49,4 +49,4 @@ npm run preview  # Visualiza build localmente
    `npm run dev`
 
 ---
-Projeto desenvolvido para **Práticas Extensionistas IV**.
+Projeto desenvolvido para **Desenvolvimento Mobile**.
